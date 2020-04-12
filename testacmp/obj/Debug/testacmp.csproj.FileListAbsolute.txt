@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\проекты\testacmp\testacmp\bin\Debug\testacmp.exe.config
+C:\Users\Admin\Desktop\проекты\testacmp\testacmp\bin\Debug\testacmp.exe
+C:\Users\Admin\Desktop\проекты\testacmp\testacmp\bin\Debug\testacmp.pdb
+C:\Users\Admin\Desktop\проекты\testacmp\testacmp\obj\Debug\testacmp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\проекты\testacmp\testacmp\obj\Debug\testacmp.exe
+C:\Users\Admin\Desktop\проекты\testacmp\testacmp\obj\Debug\testacmp.pdb
